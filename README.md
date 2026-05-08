@@ -1,4 +1,7 @@
 # 🏥 Prior Authorization RAG Bot
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://neha-payer-policy-bot.streamlit.app/)
+
+🔴 **[Live Demo → neha-payer-policy-bot.streamlit.app](https://neha-payer-policy-bot.streamlit.app/)**
 
 A **Retrieval-Augmented Generation (RAG)** pipeline that answers prior authorization eligibility questions by searching payer coverage policy PDFs — built without any paid API.
 
