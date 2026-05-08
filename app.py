@@ -22,7 +22,7 @@ def build_index():
     @st.cache_resource means this runs ONCE and stays in memory.
     No need to rebuild every time someone asks a question.
     """
-    policies_dir = "."
+    policies_dir = "data/sample_policies"
     all_chunks = []
 
     pdf_files = [f for f in os.listdir(policies_dir) if f.endswith(".pdf")]
